@@ -18,7 +18,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/wordpress.svg" alt="yatharth_sharma_blogs" width="22px" />
 </a></p>
 
-![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
+![](https://komarev.com/ghpvc/?username=Rojha-git&style=flat-square&color=blue)
 
 🏢 I’m currently working in [TCS](https://www.tcs.com/) as **System Engineer**
 
