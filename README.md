@@ -40,15 +40,13 @@
 
 - 📦 Deployment of a static webpage using AWS s3 and CloudFront - [Github](#)
 
-- 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 - [Github](https://github.com/Rojha-git/YT_cloned_app)
+- 📦 Setting up a jenkins pipeline for CI/CD - [Github](https://github.com/Rojha-git/YT_cloned_app)
 
 - 📦 CI of a python application using circleCI - [Github](#)
 
-- 📦 Containerizing a ML MicroService and running it over Kubernetes - [Github](#)
+- 📦 Containerizing Multiple MicroService using Docker and running it over Kubernetes - [Github](#)
 
 ##### 🧾 Certifications I have Accomplished
-
-- 🎖 Cloud DevOps NanoDegree - [Udacity](#)
 
 - 🎖 Various Certification of Docker and Kubernetes - ##
 
