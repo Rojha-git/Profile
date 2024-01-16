@@ -26,6 +26,8 @@
 
 💡 Hashtag that describes me **`#DevOpsWizard`**
 
+📝 Check for my Resume [Resume](https://d1vro7lpbjj8sx.cloudfront.net/) 
+
 📝 I regulary write articles on [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7150417402952826880/)
 
 💬 Ask me about **DevOps Tools and Practices**
