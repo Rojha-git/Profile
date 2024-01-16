@@ -2,7 +2,7 @@
 <h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/raj-ojha-89585a171" target="blank">
+<a href="https://www.linkedin.com/in/rojha-link" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="yatharth7" width="22px" />
 </a>
   &nbsp;&nbsp;
@@ -28,7 +28,7 @@
 
 📝 Check for my Resume [Resume](https://d1vro7lpbjj8sx.cloudfront.net/) 
 
-📝 I regulary write articles on [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7150417402952826880/)
+📝 I regulary write articles on [Linkedin](https://www.linkedin.com/in/rojha-link/recent-activity/all/)
 
 💬 Ask me about **DevOps Tools and Practices**
 
@@ -46,7 +46,7 @@
 
 - 📦 CI of a python application using circleCI - [Github](#)
 
-- 📦 Containerizing Multiple MicroService using Docker and running it over Kubernetes - [Github](#)
+- 📦 Containerizing MicroService and deployments using Docker and running it over Kubernetes - [Github](https://github.com/Rojha-git/tomcat-app)
 
 ##### 🧾 Certifications I have Accomplished
 
